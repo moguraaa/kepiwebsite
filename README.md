@@ -1,2 +1,2 @@
 # kepiwebsite
- website for the compant
+ website for the company
